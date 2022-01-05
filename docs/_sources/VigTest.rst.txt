@@ -1,0 +1,7 @@
+VigTest module
+==============
+
+.. automodule:: VigTest
+   :members:
+   :undoc-members:
+   :show-inheritance:
