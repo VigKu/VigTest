@@ -1,0 +1,2 @@
+# VigTest
+Testing for cookiecutter
